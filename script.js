@@ -16,6 +16,7 @@ const informacoesJogos = [
     { nome: "LinkedIn Wend", url: "https://www.linkedin.com/games/wend/", img: "https://static.licdn.com/aero-v1/sc/h/aacdzbfj2x7q2jh0cum7cglwf", estado: "Desbloqueado"},
     { nome: "TierMaker", url: "https://tiermaker.com", img: "https://tiermaker.com/images/icons/apple-icon-180x180.png", estado: "Desbloqueado"},
     { nome: "MoreOrLess", url: "https://moreorless.io", img: "https://moreorless.io/favicon.ico", estado: "Desbloqueado"},
+    { nome: "JKLM", url: "https://jklm.fun", img: "https://jklm.fun/images/icon512.png", estado: "Desbloqueado"},
     { nome: "Would You Rather", url: "https://wouldyourather.app/pt/s/o7fas", img: "https://wouldyourather.app/apple-touch-icon.png", estado: "Desbloqueado"},
     { nome: "Nerdle", url: "https://nerdle.com", img: "https://nerdlegame.com/favicon.png?002", estado: "Desbloqueado"},
     { nome: "Bandle", url: "https://bandle.app/menu", img: "https://bandle.app/favicon.ico", estado: "Desbloqueado"},
